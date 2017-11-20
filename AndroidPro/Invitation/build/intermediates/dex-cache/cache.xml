@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\TEST\Documents\Abhishek_AR\invitation\AndroidPro\Invitation\libs\unity-classes.jar"
+        jumboMode="false"
+        revision="26.0.1"
+        sha1="4cdcec43cf45828036b0a12c88602e60520eac00">
+        <dex dex="C:\Users\TEST\Documents\Abhishek_AR\invitation\AndroidPro\Invitation\build\intermediates\pre-dexed\debug\unity-classes_9da9dffa137eec4d3a2a1289f9d36cfdf84aed5e.jar" />
+    </item>
+    <item
+        jar="C:\Users\TEST\Documents\Abhishek_AR\invitation\AndroidPro\Invitation\libs\Vuforia.jar"
+        jumboMode="false"
+        revision="26.0.1"
+        sha1="be3db5d282d7094986c342631085ca4d84c02603">
+        <dex dex="C:\Users\TEST\Documents\Abhishek_AR\invitation\AndroidPro\Invitation\build\intermediates\pre-dexed\debug\Vuforia_75dcedd129944762d729b74e5f77c329f430031d.jar" />
+    </item>
+    <item
+        jar="C:\Users\TEST\Documents\Abhishek_AR\invitation\AndroidPro\Invitation\libs\VuforiaUnityPlayer.jar"
+        jumboMode="false"
+        revision="26.0.1"
+        sha1="95f5205a17a7546c265d4a27d1e6f8be7b6f3f03">
+        <dex dex="C:\Users\TEST\Documents\Abhishek_AR\invitation\AndroidPro\Invitation\build\intermediates\pre-dexed\debug\VuforiaUnityPlayer_58bd6100e647df74dff486dc75a10929cc141bda.jar" />
+    </item>
+
+</items>
